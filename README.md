@@ -1,2 +1,2 @@
-# Unity-TurkceWordle
- Unity Türkçe Wordle
+# Unity Türkçe Wordle
+Bu proje Wordle oyununun Türkçe klonudur.
